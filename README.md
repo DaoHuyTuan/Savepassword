@@ -2,4 +2,4 @@
 
 
 
-![savepassword](/img/savepassword.gif "Check box Save password")
+![](/img/savepassword.gif "Check box Save password")
